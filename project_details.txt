@@ -2,7 +2,7 @@ BuildEase Project.
 
 buildEase is a project that aims to make home ownership more accessible for low-income earners,
 average individuals, and those facing challenges in accessing housing.
-We help individuals build their homes and pay back the costs in installments,
+The project will help individuals build their homes and pay back the costs in installments,
 making the process easier and more affordable. The project focuses on providing a
 platform or service that connects individuals with the resources and support they need to build their homes,
 including access to financing, construction materials, and professional expertise. 
